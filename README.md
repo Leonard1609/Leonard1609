@@ -1,5 +1,5 @@
 ## Hi there 👋
-$$ This is an area for splaying of the work :) 
+## This is a space to expand on work :) 
 <!--
 **Leonard1609/Leonard1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
